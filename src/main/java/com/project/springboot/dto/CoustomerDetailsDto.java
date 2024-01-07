@@ -17,7 +17,7 @@ public class CoustomerDetailsDto
 	private double monthlyIncome;
 	
 	@Column(name = "annual_turnover")
-	private double annualTurnover;
+	private double annualTurnover1;
 	
 	private String nationality;
 	
